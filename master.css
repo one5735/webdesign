@@ -44,8 +44,7 @@ nav > .menu > ul > li > a {color: #FFFFFF; }
   background-attachment: fixed;
 }
 
-.bg1{background-image: url('img/00_01_bg_03.png'); height: 750px;
-}
+.bg1{background-image: url('img/00_01_bg_03.png');height: 700px;}
 .bg2{background-image: url('img/00_02_bg.png');}
 .bg3{background-image: url('img/00_03_bg.png');}
 .bg4{background-image: url('img/00_04_bg.png');}
@@ -57,9 +56,9 @@ nav > .menu > ul > li > a {color: #FFFFFF; }
 .tit1{
   position: relative;
   display: inline-block;
-  left: 83%;
-  top: 88%;
-  transform: translateX(-90%) translateY(-50%);}
+  left: 81%;
+  top: 87%;
+  transform: translateX(-75%) translateY(-50%);}
 
   .bt{transform: scale(1.0);transition: 0.5s;}
   .bt:hover{transform: scale(1.1);transition: 0.5s;}
